@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif; /* Font chữ */
+    color: #5c71799a; /* Màu chữ */
+    margin: 0; /* Loại bỏ margin */
+    padding: 0; /* Loại bỏ padding */
+    background:#36354a56;
+}
+
+.container {
+    width: 80%; /* Chiều rộng của container */
+    margin: auto; /* Canh lề tự động */
+    text-align: justify; /* Canh lề văn bản trong container */
+}
+/* Header **/
+header{ 
+    background:#35364a;
+    color:#ffffff93;
+    padding-top:30px;
+    min-height:70px;
+    border-bottom:#e8491d 3px solid;
+}
+footer{ 
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:#dbe81d;
+    text-align: center;
+}    
+
+
+
+h1 {
+    font-size: 36px; /* Cỡ chữ của tiêu đề */
+    color: #007bff; /* Màu chữ của tiêu đề */
+}
+
+ul {
+    list-style-type: none; /* Loại bỏ các dấu đầu dòng của danh sách */
+    padding: 0; /* Loại bỏ padding của danh sách */
+}
+
+li {
+    margin-bottom: 10px; /* Khoảng cách giữa các mục danh sách */
+    font-size: 18px; /* Cỡ chữ của mục danh sách */
+}
+
+
+.minecraft-img {
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: auto;
+}   
